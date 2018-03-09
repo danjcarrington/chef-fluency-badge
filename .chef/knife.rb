@@ -6,4 +6,5 @@ log_location             STDOUT
 node_name                "dan"
 client_key               "#{current_dir}/dan.pem"
 chef_server_url          "https://dcarrington2.mylabserver.com/organizations/linuxacademy"
+#chef_server_url          "https://34.210.245.118/organizations/linuxacademy"
 cookbook_path            ["#{current_dir}/../cookbooks"]
