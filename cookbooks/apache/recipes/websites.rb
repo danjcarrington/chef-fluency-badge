@@ -1,5 +1,5 @@
 file 'default_www' do
 	path '/var/www/html/index.html'
-	content 'Hellow World!'
+	content 'Hello World!'
 end
 
